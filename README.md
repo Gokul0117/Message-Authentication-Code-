@@ -1,4 +1,4 @@
-# EX-NO 13 Message Authentication Code 
+# EXP-13 Message Authentication Code 
 
 ## AIM:
 To write a program to implement Message Authentication Code (MAC). 
